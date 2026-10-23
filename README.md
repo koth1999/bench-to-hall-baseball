@@ -5,7 +5,7 @@
 ## 로컬 서버 실행
 
 ```bash
-cd /Users/koth1999/Documents/Codex/2026-10-23/https-kickru-com-https-kickru-com/bench-to-hall
+cd bench-to-hall
 python3 -m http.server 4173 --directory dist
 ```
 
